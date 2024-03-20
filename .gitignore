@@ -1,0 +1,5 @@
+artifacts/
+catboost_info/
+Credit_Score.egg-info/
+creditscore/
+logs/
